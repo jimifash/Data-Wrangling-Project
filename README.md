@@ -1,2 +1,2 @@
 # Data-Wrangling-Project
-#Hola, Buen dia(Yh, just learning spanish). This is my second project on data analysis since I joined the Alx(Udacity) data analysis program. The project is to help me showcase my data Wrangling skills manually, programmatically and through API query
+#Hola, Buen dia(Yh, just learning spanish). This is my second project on data analysis since I joined the Alx(Udacity) data analysis program. In this project I gathered three datasets for analysis. Each dataset gathered with a different method. The first Dataset would be gathered by downloading it directly, the second was downloaded programatically and the third would be extracted from twitter. This project was aimed at improving my wrangling skills and the use of APIs
